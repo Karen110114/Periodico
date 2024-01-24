@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+}
+h1{
+  font-family: cursive;  
+  font-size: 50px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
