@@ -1,16 +1,19 @@
 body{
     background-color: bisque;
     display: flex;
-    align-items: center;
+    flex-direction: column;
 }
 h1{
     font-family: cursive;
     font-size: 50px;
+    display: flex;
+    justify-content: center;
+    color: darkgoldenrod;
 }
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
-}
-br{
-    width: 20px;
+    display: flex;
+    justify-content: center;
+    color: rgb(241, 106, 9);
 }
