@@ -17,3 +17,10 @@ p{
     justify-content: center;
     color: rgb(241, 106, 9);
 }
+
+a{
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-end;
+    color: black;
+}
